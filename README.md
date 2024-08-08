@@ -93,6 +93,7 @@ CRUD operations are implemented for all tables, allowing users to create, read, 
 **Testing**
 ## **Unit Tests**
 - To run all Unit tests: `npm run test`
+
 - Due to an issue with the `pv semaphore`, not all tests may pass with `npm run test`. Use the specific commands below to run tests for individual modules:
   - `test:flatfile`
   - `test:author`
@@ -103,6 +104,7 @@ CRUD operations are implemented for all tables, allowing users to create, read, 
   - `test:purchase`
   - `test:sale`
 
+![WhatsApp Image 2024-08-02 at 12 29 19_b7c4934c](https://github.com/user-attachments/assets/b9a89e33-e83c-4138-9a2f-b03edd172cb4)
 
 **Integration Tests:**
 To run all Integration Tests: npm start
